@@ -1,5 +1,4 @@
-# Shamim Iqbal
-Portfolio Django web application
+# Portfolio Django web application
 Django full functional portfolio + blog web application.
 
 Prerequisite:
